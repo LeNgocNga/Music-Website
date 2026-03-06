@@ -241,6 +241,3 @@ MusicWebsite/
 
 ---
 
-<div align="center">
-  <sub>Academic Project · University of Information Technology (UIT) · Faculty of Software Engineering · .NET Technology · 2024</sub>
-</div>
